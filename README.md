@@ -1,7 +1,7 @@
 # Essential Statistics and Mathematics for Data Science
 
 ## Project Overview
-This repository contains my solutions for the statistics and mathematics assignment. T
+This repository contains my solutions for the statistics and mathematics assignment. 
 
 ## How to Use
 1. Open the `.ipynb` or `.py` files to view the code.
